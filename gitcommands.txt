@@ -27,4 +27,7 @@ git reset --hard <commit> – Reset to a previous commit
 
 git stash – Temporarily save uncommitted changes
 
-git stash pop – Restore stashed changes
+git fetch origin -To update your local repository with the latest remote branches
+
+git branch -r -Check if the branch exists in the remote repository
+
