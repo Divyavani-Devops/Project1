@@ -1,0 +1,34 @@
+Git commands:
+------------------------------------------------------
+
+git init – Initialize a new Git repository
+
+git clone <repo-url> – Clone a repository
+
+git status – Check the status of your repo
+
+git add <file> – Add a file to staging
+
+git commit -m "message" – Commit changes with a message
+
+git push origin <branch> – Push changes to a remote repository
+
+git pull origin <branch> – Pull changes from a remote repo
+
+git branch – List branches
+
+git checkout <branch> – Switch to a different branch
+
+git merge <branch> – Merge a branch into the current branch
+
+git log – View commit history
+
+git reset --hard <commit> – Reset to a previous commit
+
+git stash – Temporarily save uncommitted changes
+
+git stash pop – Restore stashed changes
+
+git fetch origin -To update your local repository with the latest remote branches
+
+git branch -r -Check if the branch exists in the remote repository
